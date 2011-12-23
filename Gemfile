@@ -36,6 +36,6 @@ group :development do
 end
 
 group :test do 
-  'rspec'
-  'webrat'
+  gem 'rspec'
+  gem 'webrat'
 end
